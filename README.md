@@ -40,8 +40,8 @@
 
 ## 📌 Featured Projects
 
-- 🛍️ [PlixoMart E-commerce Website](https://github.com/MIsaa20/plixomart) — A stylish frontend-only e-commerce website  
-- 💰 [MoneyTrail Web App](https://github.com/MIsaa20/moneytrail) — MERN stack expense tracking application  
+- 🛍️ [PlixoMart E-commerce Website](https://github.com/Misaa20/ecommerce-website) — A stylish frontend-only e-commerce website  
+- 💰 [MoneyTrail Web App](https://github.com/Misaa20/Expense-Tracker) — MERN stack expense tracking application  
 - 🧠 [AI-Based Virtual Mental Health App](https://github.com/MIsaa20/mental-health-app)  
 - 🧮 [Skin Cancer Detection using CNN (VGG16)](https://github.com/MIsaa20/skin-cancer-cnn)  
 
@@ -50,6 +50,6 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-📧 Email: your.email@example.com
+📧 Email: eratrivedi2002@gmail.com
 
 ---
