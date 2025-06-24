@@ -34,7 +34,8 @@
 ## 📊 GitHub Overview
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIsaa20&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Misaa20&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIsaa20&show_icons=true&theme=tokyonight)
+
 
 
 ---
